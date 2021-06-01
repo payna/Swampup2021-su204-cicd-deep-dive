@@ -5,3 +5,4 @@ imageName: app_docker_image
 artifactoryUrl: paynea.jfrog.io   # replace swampup with your server name
 sourceRepository: su204-docker-staging-local
 prodRepository: su204-docker-prod-local
+
